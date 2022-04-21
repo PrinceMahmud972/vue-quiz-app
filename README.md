@@ -1,4 +1,5 @@
-# vue-quiz-app
+# Vue Quiz App
+This is a simple quiz app developed using vue 3.
 
 ## Project setup
 ```
